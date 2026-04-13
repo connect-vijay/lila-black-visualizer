@@ -41,7 +41,10 @@ lila-viz/
 
 **No build step required.** This is a static site.
 
-### Local development
+### Local development 1
+Just open the index.html file, you should be good
+
+## Local development 2 - not needed (but adding here)
 ```bash
 # Option 1: Python
 python3 -m http.server 8000
