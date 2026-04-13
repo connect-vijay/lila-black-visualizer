@@ -4,7 +4,7 @@ A browser-based visualization tool that lets Level Designers explore player beha
 
 ## Live Demo
 
-🔗 **[Open the tool →](#)** *(replace with your deployed URL)*
+🔗 **[Open the tool →](https://connect-vijay.github.io/lila-black-visualizer/)*
 
 ## Features
 
